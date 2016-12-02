@@ -1,11 +1,11 @@
 /*Adding a light background color*/
 
 head {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 a:link {
-  color: green;
+  color: blue;
 }
 
 a:visited {
