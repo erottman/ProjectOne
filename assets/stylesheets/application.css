@@ -1,0 +1,126 @@
+/*Adding a light background color*/
+
+head {
+  font-size: 24px;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color:green;
+}
+
+a:hover{
+  color: green;
+}
+
+a:active {
+  color: pink;
+}
+
+body{
+  background-color:  #FFF8DC;
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+}
+
+#zilla {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+
+}
+
+header {
+  height: 100px;
+  padding: 20px;
+  background-color: #006400;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial;
+  font-size: 48px;
+  font-style: oblique;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-family: Arial;
+  font-size: 48px;
+  font-style: oblique;
+  color: green;
+}
+
+nav>img {
+  width: 100%;
+
+
+
+}
+
+main {
+
+  height: 250px;
+  color: blue;
+}
+
+.wrapper{
+  width: 1000px;
+  margin: auto;
+}
+
+#details {
+  font-weight: bolder;
+  font-size: 32px;
+}
+
+#simple-button {
+  background-color: #006400;
+  border: solid;
+  color: #fff;
+  text-decoration-color: green;
+  font-size: 18px;
+  padding: 3px 18px;
+}
+
+.button-style {
+  background-color: blue;
+  border: solid;
+  color: #fff;
+  text-decoration-color: blue;
+  font-size: 18px;
+  padding: 3px 18px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
